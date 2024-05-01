@@ -1,3 +1,7 @@
 # PHYLOGENETIC TREE OF FIVE PROTISTS
-## Anela Selmic, Bio-410
+# Introduction
+## Anela Selmic, BIO-410
 Insert background of the organisms, source of data
+# Methods (What methods did you use to make the tree, what gene was it)
+# Figure (insert figure)
+# Results (Summarize the relationships in the tree)
