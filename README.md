@@ -1,6 +1,6 @@
 # PHYLOGENETIC TREE OF FIVE PROTISTS
 #### Anela Selmic, BIO-410
-
+###### Sequence finding of the cytochrome C gene from NCBI for Plasmodium falciparum, Plasmodium vivax, Toxoplasma gondii, Babesia bobis, and Cyclospora cayetanensis.
 ## Introduction
 #### Plasmodium falciparum, Plasmodium vivax, Cyclospora cayetanensis, Toxoplasma gondii, and Babesia bovis are diverse parasites that are known for their impact on human and animal health. Plasmodium falciparum and Plasmodium vivax are known for causing different forms of malaria in humans, a major health issue in several tropical regions. While these two are similar, Plasmodium falciparum has some differences in how it affects people. Cyclospora cayetanensis leads to cyclosporiasis, which effects the stomach and gastrointestinal tract and is often in connection to contaminated food or water. Toxoplasma gondii contains a cause of toxoplasmosis, which affects a wide range of species including humans, and is often sourced through undercooked meat or contaminated soil. Babesia bovis is a parasite that causes babesiosis in cattle, and occasionally in humans, transmitted via ticks. With the use of NCBI, a scientific data base, I was able to gather organisms and gather sources in .png formats. Through the data base and formats, it aided in allowal for easy understanding of the complex relationships between these parasites.
 
